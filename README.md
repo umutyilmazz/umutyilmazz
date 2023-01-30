@@ -3,3 +3,9 @@
 - Boğaziçi Üniversitesinde hazırlık sınıfı öğrencisiyim.
 - Veri Bilimi alanında ilerlemek istiyorum.
 - Her alandaki yetkinliklerimi geliştirmeye çalışıyorum.
+
+
+---
+
+
+** Sosyal Medya Hesaplarım **
