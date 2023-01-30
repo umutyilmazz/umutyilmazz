@@ -9,4 +9,5 @@
 
 
 **Bana Ulaşın**
-[LinkedIn](https://www.linkedin.com/in/umutyilmazz/) | [Instagram](https://www.instagram.com/umutyilmmz/) | [E-mail](<a href="mailto:umutyilmaz475@gmail.com">Mail Gönder</a>)
+
+[LinkedIn](https://www.linkedin.com/in/umutyilmazz/) | [Instagram](https://www.instagram.com/umutyilmmz/) | (<a href="mailto:umutyilmaz475@gmail.com">Mail Gönder</a>)
