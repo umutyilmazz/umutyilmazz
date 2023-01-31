@@ -15,7 +15,7 @@
 ---
 
 
-**Sosyal Medya Hesaplarım**
+**Bana Ulaşın**
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/umutyilmazz/">
