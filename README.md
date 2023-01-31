@@ -1,6 +1,6 @@
 # Ben Kimim?
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Merhaba%20Umut%20Yılmaz%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Umut%20Yılmaz%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 - <img src="https://cdn-icons-png.flaticon.com/512/5351/5351488.png" width="15"> Boğaziçi Üniversitesinde hazırlık sınıfı öğrencisiyim.
 - <img src="https://cdn-icons-png.flaticon.com/512/59/59505.png" width="15"> Veri Bilimi alanında ilerlemek istiyorum.
