@@ -7,9 +7,9 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Umut%20Yılmaz%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-- <img src="https://cdn-icons-png.flaticon.com/512/5351/5351488.png" width="15"> Boğaziçi Üniversitesinde hazırlık sınıfı öğrencisiyim.
+- <img src="https://cdn-icons-png.flaticon.com/512/5351/5351488.png" width="15"> Boğaziçi Üniversitesinde İnşaat Mühendisliği & Endüstri Mühendisliği ÇAP öğrencisiyim.
 - <img src="https://cdn-icons-png.flaticon.com/512/59/59505.png" width="15"> Veri Bilimi alanında ilerlemek istiyorum.
-- <img src="https://static.thenounproject.com/png/3194481-200.png" width="15"> Her alandaki yetkinliklerimi geliştirmeye çalışıyorum.
+- <img src="https://static.thenounproject.com/png/3194481-200.png" width="15"> Çeşitli gelişim programlarına katılarak her alanda yetkinliklerimi geliştirmeye çalışıyorum.
 
 
 ---
